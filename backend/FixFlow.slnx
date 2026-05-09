@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="FixFlow.Api.Tests/FixFlow.Api.Tests.csproj" />
+    <Project Path="FixFlow.Api/FixFlow.Api.csproj" />
+  </Folder>
+</Solution>
